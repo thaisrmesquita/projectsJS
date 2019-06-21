@@ -1,0 +1,12 @@
+MultiroomJS
+A ideia desse projeto era por em prática o conceito de WebSocket e Socket.io. Para isso foi criado um projeto de chat onde usuaários conectados podem enviar mensagem para outros usuários.
+Além do conceito desses conceitos, o projeto também serviu para a fixação dos conceitos abaixo: 
+
+ *body-parser;
+ *consign;
+ *ejs;
+ *express;
+ *express-validator;
+ *socket.io;
+
+Além de fazer o melhoramento da aparência da página, com o uso de imagens e CSS, juntamente ao EJS.
