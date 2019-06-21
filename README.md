@@ -1,6 +1,6 @@
 Repositório para armazenamento de projetos JS.
 ## calculadoraJS
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+
 Este projeto teve como objetivo a criação de uma calculadora, utilizando os princípios básicos de javascript para a fixação dos seguintes tópicos: 
 
 Este projeto teve como finalidade por em prática os seguintes conceitos de javascript:
@@ -13,7 +13,6 @@ Este projeto teve como finalidade por em prática os seguintes conceitos de java
 7. Lógica de Programação;
 
 ## Portal de Noticias
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 
 Este Projeto foi criado com o intuito de por em prática conceitos de NodeJs.
 
@@ -36,7 +35,7 @@ Com isso, foram postos praticados conceitos de:
 12. Middlewares;
 
 ## multiroomJS
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+
 Este projeto tinha dois objetivos:
 * Aprender como utilizar WebSocket e Socket.io;
 * Melhor a exibição da página EJS com auxilio de CSS e imagens;
@@ -52,7 +51,7 @@ Além disso, o projeto também serviu para a fixação dos conceitos abaixo:
  5. express-validator;
 
 ## Sistema Gerenciador da Escola
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+
 SysEjud é o sistema responsável pelo gerenciamento de cursos ofertados. 
 A maior dificuldade que se tinha dentro da escola era fazer o cadastramento de cursistas e o gerenciamento posterior dos cursos, certificados e participações reais desses usuários nos cursos ofertados. 
 
